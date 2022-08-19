@@ -1,0 +1,53 @@
+
+ .Foto_perfil{
+    margin: auto;  /*centra automaticamente la imagen*/
+    display: block; /*me vuelve la clase como un bloque y asi puede centrar*/
+    width: 150px; /*tamaño de la imagen*/
+    height: 180.37px; /*Tamaño de la imagen*/
+            }
+
+
+ nav {text-align:left}            
+
+h1 {text-align:center;
+}
+header {background-image: url("../img/banner-header-tapete.jpg");
+background-size:cover}
+
+.pagina_2 {text-align:center;
+}
+header {background-image: url("../img/banner-header-tapete.jpg");
+background-size:cover}
+
+.menuSobreMi{background-position-x:left}
+
+h1,h2 {letter-spacing:8px;
+    background-color:#C4C4C4;
+    color:#005677
+}
+
+.subtitulos_negr{font-family:'Times New Roman';
+    font-style:italic;
+    font-weight:bold
+}
+
+.subtitulos_2{font-family:'Times New Roman';
+       font-weight:bold
+}
+
+.tabulacion{text-indent: 80px;}
+.tabulacion_1{object-position: 70px;}
+
+
+
+
+.footer_class {background-color: #005677;}
+
+footer {text-align:center;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    color: #FFFFFF
+    }
